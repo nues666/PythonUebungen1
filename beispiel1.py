@@ -1,7 +1,6 @@
-# beispiel1.py
+land = "AT"
+blz = "38282"
+konto = "3026713"
+check = "96"
 
-print("Halo Welt!")
-
-print("Hello Universe")
-print("github Version")
-print("fd")
+print(land + " "+blz+" "+ konto+" "+ check)
